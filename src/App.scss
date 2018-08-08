@@ -4,12 +4,11 @@
 .App {
   text-align: center;
 }
-
-.App-header {
-  background-color: #222;
-  height: 80px;
-  padding: 20px;
-  color: white;
+body{
+  width: 80%;
+  height: 90vh;
+  margin: 0 auto;
+  border: 6px solid $purple;
 }
 
 button {

@@ -2,21 +2,22 @@
 .App {
   text-align: center; }
 
-.App-header {
-  background-color: #222;
-  height: 80px;
-  padding: 20px;
-  color: white; }
+body {
+  width: 80%;
+  height: 90vh;
+  margin: 0 auto;
+  border: 6px solid #6400f0; }
 
 button {
   margin: 10px; }
 
 .App-header {
-  background: #4527A0; }
+  background: #6400f0;
+  height: 80px;
+  padding: 20px; }
   .App-header h1 {
     width: 100%;
     color: white;
-    background: #4527A0;
     letter-spacing: .08929em;
     color: white;
     font-size: 25px;

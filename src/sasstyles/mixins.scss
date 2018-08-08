@@ -3,10 +3,11 @@
 @import 'variables';
 @mixin banner {
   background: $purple;
+  height: 80px;
+  padding: 20px;
   h1 {
       width:100%;
       color:white;
-      background:#4527A0;
       letter-spacing: .08929em;
       color: white;
       font-size: $headerFont;
