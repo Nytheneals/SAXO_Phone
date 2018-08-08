@@ -1,27 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik");
 .App {
   text-align: center; }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px; }
-
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 80px;
   padding: 20px;
   color: white; }
-
-.App-title {
-  font-size: 1.5em; }
-
-.App-intro {
-  font-size: large; }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg); }
-  to {
-    transform: rotate(360deg); } }
 
 button {
   margin: 10px; }
@@ -29,5 +14,12 @@ button {
 .App-header {
   background: #4527A0; }
   .App-header h1 {
+    width: 100%;
     color: white;
-    font-size: 45px; }
+    background: #4527A0;
+    letter-spacing: .08929em;
+    color: white;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase; }
